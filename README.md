@@ -89,3 +89,19 @@ Step 12
 Step 13
 
 <img width="1440" alt="Screenshot 2023-07-16 at 7 40 37 PM" src="https://github.com/phateemahgee/Springforth-University-FoodBank/assets/127352183/48f281ba-2cc0-4f7c-9f81-535953a0e84c">
+
+
+# Conclusion
+
+It is recommended that Spring-forth University establishes a food bank on campus in collaboration with UNESCO. 
+The insights from the visualizations highlight the prevalence of food insecurity among students and its negative impact on academic performance. 
+
+
+# Feel Free to Contribute
+
+This is an open-source project, and contributions are welcome. If you have any suggestions, improvements, or additional insights, feel free to submit a pull request.
+
+# Author
+This project was made by Fatima Gidado. You can contact me at fatima.gidado@yahoo.com
+
+
