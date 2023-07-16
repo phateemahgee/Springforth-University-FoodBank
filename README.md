@@ -90,6 +90,10 @@ Step 13
 
 <img width="1440" alt="Screenshot 2023-07-16 at 7 40 37 PM" src="https://github.com/phateemahgee/Springforth-University-FoodBank/assets/127352183/48f281ba-2cc0-4f7c-9f81-535953a0e84c">
 
+# Visualization
+<img width="972" alt="Screenshot 2023-07-16 at 10 06 47 PM" src="https://github.com/phateemahgee/Springforth-University-FoodBank/assets/127352183/1be37617-3429-4141-9cf7-0eb99192562e">
+<img width="975" alt="Screenshot 2023-07-16 at 10 06 57 PM" src="https://github.com/phateemahgee/Springforth-University-FoodBank/assets/127352183/216076fc-2c45-432f-8b79-4ebb68a766c8">
+<img width="977" alt="Screenshot 2023-07-16 at 10 07 05 PM" src="https://github.com/phateemahgee/Springforth-University-FoodBank/assets/127352183/787bd7d7-b99b-4ac0-9bfc-73dd913077a4">
 
 # Conclusion
 
